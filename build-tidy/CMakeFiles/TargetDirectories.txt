@@ -1,0 +1,15 @@
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/calculator.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/format.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/edit_cache.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/rebuild_cache.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/list_install_components.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/install.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/install/local.dir
+/home/ubunt/projects/calculator-app/build-tidy/CMakeFiles/install/strip.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/calculator_math_format.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/edit_cache.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/rebuild_cache.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/list_install_components.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/install.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/install/local.dir
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-build/CMakeFiles/install/strip.dir

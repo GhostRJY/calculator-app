@@ -1,0 +1,14 @@
+# Target labels
+ calculator_math-populate
+# Source files and their labels
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/CMakeFiles/calculator_math-populate
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/CMakeFiles/calculator_math-populate.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/CMakeFiles/calculator_math-populate-complete.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-build.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-configure.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-download.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-install.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-mkdir.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-patch.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-test.rule
+/home/ubunt/projects/calculator-app/build-tidy/_deps/calculator_math-subbuild/calculator_math-populate-prefix/src/calculator_math-populate-stamp/calculator_math-populate-update.rule
